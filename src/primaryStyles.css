@@ -6,7 +6,7 @@ body {
 }
 #contents {
     margin: 40px auto;
-    width: 450px;
+    max-width: 450px;
 }
 #headerMain {
     border: black 2px solid;
